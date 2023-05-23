@@ -10,7 +10,7 @@ We have an app ready to be deployed.
 
 **When**
 
-We use the CLoudflare Workers CLI to deploy our app.
+We use the Cloudflare Workers CLI (wrangler) to deploy our app.
 
 **Then**
 
