@@ -8,9 +8,9 @@
 
 We have an app ready to be deployed.
 
-**Action**
+**When**
 
-We use the CLoudflare Workers CLI to deploy our app.
+We use the Cloudflare Workers CLI (wrangler) to deploy our app.
 
 **Then**
 
@@ -23,7 +23,7 @@ Our app is up and running on Cloudflare.
 
 We have an app running on Cloudflare.
 
-**Action**
+**When**
 
 We login on the Cloudflare Dashboard.
 
