@@ -30,3 +30,8 @@ We login on the Cloudflare Dashboard.
 **Then**
 
 We can can see how our app perform and various data.
+
+
+## Cloudflare workers schema
+
+![](cloudflare_workers.jpg)

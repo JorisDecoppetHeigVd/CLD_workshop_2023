@@ -1,0 +1,9 @@
+name = "cld-todo-app"
+main = "src/worker.js"
+compatibility_date = "2023-06-13"
+node_compat = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cld-todo"
+database_id = "3d73c6a2-3da1-4080-8791-c1ecf036eed6"
